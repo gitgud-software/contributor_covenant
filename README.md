@@ -5,7 +5,9 @@ A code of conduct for open source projects.
 
 ## Project Home Page
 
-For an overview and usage instructions, please visit http://contributor-covenant.org/
+For information regarding original project, please visit http://contributor-covenant.org/
+
+If you can't figure out how to use this project, you should stop reading right now and give up.
 
 ## Contributing
 
@@ -13,41 +15,4 @@ Please feel free to submit pull requests or open issues to improve the language 
 
 ## Examples of Projects Using the Contributor Covenant
 
-* [24 Pull Requests](https://github.com/24pullrequests/24pullrequests)
-* [Algorrent](https://github.com/algorrent/algorrent)
-* [All HaskellNow.org Projects](http://www.haskellnow.org/wiki/WikiStart#Projects)
-* [AngularJS](https://github.com/angular/code-of-conduct)
-* [Bundler](https://github.com/bundler/bundler)
-* [chef-rvm](https://github.com/fnichol/chef-rvm)
-* [CocoaPods](https://github.com/cocoapods/cocoapods)
-* [Crackle](https://github.com/jordanekay/Crackle)
-* [Eldest Daughter Questionnaire](https://github.com/eldest-daughter/ed-questionnaire)
-* [Exercism.io](https://github.com/exercism/exercism.io)
-* [Fukuzatsu](https://gitlab.com/coraline/fukuzatsu/tree/master)
-* [GitLab](https://github.com/gitlabhq/gitlabhq)
-* [Growing Devs](https://github.com/growingdevs/growingdevs.github.io)
-* [Hacken.in](https://github.com/hacken-in/website)
-* [Haskell Fill in the Blanks](https://gitlab.com/cpp.cabrera/haskell-fill-in-the-blanks/tree/master)
-* [haxe-pixi](https://github.com/adireddy/haxe-pixi)
-* [HealingRa.in Projects](https://gitlab.com/groups/healing-rain)
-* [Homebrew-Cask](https://github.com/caskroom/homebrew-cask)
-* [HTTPotion](https://github.com/myfreeweb/httpotion)
-* [Lotus](http://lotusrb.org/community#code-of-conduct)
-* [Mensa](https://github.com/jordanekay/Mensa)
-* [Monsti CMS](http://www.monsti.org/)
-* [Mozilla Webmaker](https://www.webmaker.org/)
-* [OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap)
-* [OpenProject](https://www.openproject.org/)
-* [Ornament](https://github.com/jordanekay/Ornament)
-* [Panamax](https://github.com/CenturyLinkLabs/panamax-ui)
-* [Paramore](https://github.com/iancooper/Paramore)
-* [Playscii](http://vectorpoem.com/playscii)
-* [pmap](https://github.com/bruceadams/pmap)
-* [PyBBIO](https://github.com/graycatlabs/PyBBIO)
-* [ROM](https://github.com/rom-rb/rom)
-* [ruby-community](https://github.com/apeiros/ruby-community)
-* [RVM](https://github.com/rvm/rvm)
-* [Snuffle](https://gitlab.com/coraline/snuffle/tree/master)
-* [Snipe-IT](https://github.com/snipe/snipe-it)
-* [WAI-request-spec](https://gitlab.com/cpp.cabrera/wai-request-spec)
-* [xoreos](https://github.com/xoreos/xoreos)
+* None
