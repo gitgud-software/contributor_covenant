@@ -15,4 +15,4 @@ Please feel free to submit pull requests or open issues to improve the language 
 
 ## Examples of Projects Using the Contributor Covenant
 
-* None
+* [https://github.com/gitgud-software/trefoil](Trefoil)
