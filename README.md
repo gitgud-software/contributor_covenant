@@ -16,3 +16,4 @@ Please feel free to submit pull requests or open issues to improve the language 
 ## Examples of Projects Using the Contributor Covenant
 
 * [Trefoil](https://github.com/gitgud-software/trefoil)
+* [Hatestation](https://github.com/Zaers/-tg-station)
